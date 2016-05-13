@@ -6,6 +6,7 @@ def binary_search(a, x):
     """Binary Search.
 
     Implementation of binary search algorithm.
+    Returns the index if the element is found in the array, -1 otherwise.
 
     Samples:
     >>> n = 5; a = [1, 5, 8, 12, 13]
@@ -19,12 +20,6 @@ def binary_search(a, x):
     0
     >>> binary_search(a, 11)
     -1
-    >>> # Explanation: In this sample, we are given an increasing sequence
-    >>> # a[0] = 1, a[1] = 5, a[2] = 8, a[3] = 12, a[4] = 13 of length five and
-    >>> # five keys to search: 8, 1, 23, 1, 11.
-    >>> # We see that a2 = 8 and a0 = 1, but the keys 23 and 11 do
-    >>> # not appear in the sequence a. For this reason, we output a sequence
-    >>> # 2, 0, −1, 0, −1.
     """
     left, right = 0, len(a) - 1
     while left <= right:
