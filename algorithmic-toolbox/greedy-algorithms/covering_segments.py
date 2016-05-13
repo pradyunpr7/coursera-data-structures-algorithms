@@ -40,7 +40,7 @@ def optimal_points(segments):
     sorted_segments = sorted(segments, key=lambda x: x.end)
 
     points = []
-    while len(sorted_segments):
+    while sorted_segments:
         # Place the first point to the right endpoint of the first segment.
         # Remove the segment, since it's considered as covered one.
         segment = sorted_segments.pop(0)
