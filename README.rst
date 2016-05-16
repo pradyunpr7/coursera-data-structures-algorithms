@@ -29,3 +29,11 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 #. `Sorting: 3-Way Partition <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/divide-and-conquer/sorting.py>`_
 #. `Number of Inversions <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/divide-and-conquer/inversions.py>`_
 #. `Points and Segments <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/divide-and-conquer/points_and_segments.py>`_
+
+**Dynamic programming**
+
+#. `Primitive Calculator <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/primitive_calculator.py>`_
+#. `Take as Much Gold as Possible <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/knapsack.py>`_
+#. `Compute the Edit Distance Between Two Strings <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/edit_distance.py>`_
+#. `Maximize the Value of an Arithmetic Expression <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/placing_parentheses.py>`_
+#. `Longest Common Subsequence of Three Sequences <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/lcs3.py>`_
