@@ -37,3 +37,12 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 #. `Compute the Edit Distance Between Two Strings <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/edit_distance.py>`_
 #. `Maximize the Value of an Arithmetic Expression <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/placing_parentheses.py>`_
 #. `Longest Common Subsequence of Three Sequences <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/algorithmic-toolbox/dynamic-programming/lcs3.py>`_
+
+`Data Structures <https://www.coursera.org/learn/data-structures/>`_
+--------------------------------------------------------------------
+
+**Basic Data Structures**
+
+#. `Check brackets in the code <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/basic/check_brackets.py>`_
+#. `Compute tree height <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/basic/tree-height.py>`_
+#. `Network packet processing simulation <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/basic/process_packages.py>`_
