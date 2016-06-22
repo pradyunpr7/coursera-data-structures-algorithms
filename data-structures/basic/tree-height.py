@@ -75,6 +75,7 @@ class TreeHeight:
         return self.cache[node_id]
 
     def compute_height(self):
+        """Computes the tree height."""
         return max([self.path_len(i) for i in range(self.n)])
 
 

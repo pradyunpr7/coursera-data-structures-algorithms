@@ -50,7 +50,7 @@ def checker(text):
     >>> checker("foo(bar);")
     Success
     >>> # Explanation: All the brackets are matching, and all the other symbols
-    # can be ignored.
+    >>> # can be ignored.
     >>> checker("foo(bar[i);")
     10
     >>> # Explanation: ) doesn’t match [, so ) is the first unmatched closing
