@@ -46,3 +46,9 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 #. `Check brackets in the code <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/basic/check_brackets.py>`_
 #. `Compute tree height <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/basic/tree-height.py>`_
 #. `Network packet processing simulation <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/basic/process_packages.py>`_
+
+**Priority Queues and Disjoint Sets**
+
+#. `Convert array into heap <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/build_heap.py>`_
+#. `Parallel processing <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/job_queue.py>`_
+#. `Merging tables <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/merging_tables.py>`_
