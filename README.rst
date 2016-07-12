@@ -52,3 +52,9 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 #. `Convert array into heap <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/build_heap.py>`_
 #. `Parallel processing <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/job_queue.py>`_
 #. `Merging tables <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/priority-queues-and-disjoint-sets/merging_tables.py>`_
+
+**Hash Tables and Hash Functions**
+
+#. `Phone book <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/hash-tables/phone_book.py>`_
+#. `Hashing with chains <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/hash-tables/hash_chains.py>`_
+#. `Find pattern in text <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/hash-tables/hash_substring.py>`_
