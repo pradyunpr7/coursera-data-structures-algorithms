@@ -58,3 +58,9 @@ Programming assignments for `Data Structures and Algorithms Specialization <http
 #. `Phone book <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/hash-tables/phone_book.py>`_
 #. `Hashing with chains <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/hash-tables/hash_chains.py>`_
 #. `Find pattern in text <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/hash-tables/hash_substring.py>`_
+
+**Binary Search Trees**
+
+#. `Binary tree traversals <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/binary-search-trees/tree-orders.py>`_
+#. `Set with range sums <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/binary-search-trees/set_range_sum.py>`_
+#. `Rope <https://github.com/ivankliuk/coursera-data-structures-algorithms/blob/master/data-structures/binary-search-trees/rope.py>`_
