@@ -33,14 +33,13 @@ def optimal_weight(W, w):
     # Create a weight matrix and write in initial values.
     weights = [[0 for _ in range(items)] for _ in range(capacity)]
 
-    for j in range(1, items):
-        for i in range(1, capacity):
-            prev = weights[i][j - 1]
-            cur = w[j] + weights[W - w[j]][j - 1]
-            if cur > i:
-                weights[i][j] = prev
-            else:
-                weights[i][j] = max(prev, cur)
+    for i in range(1, items):
+        for j in range(1, capacity):
+            weights[j][i] = weights[j][i - 1]
+            if w[i] <= j:
+                val = weights[j - w[i]][i - 1] + w[i]
+                if weights[j][i] < val:
+                    weights[j][i] = val
 
     return weights[-1][-1]
 
